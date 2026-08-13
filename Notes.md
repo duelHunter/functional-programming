@@ -49,4 +49,14 @@ output: 4
 Because `(+1)` is a function.
 
 
-##  
+##  What is Huskell Language Server(HLS)?
+HLS gives intelligence to the coding editor about the huskell language features.
+For example, in VS Code, HLS can provide:
+
+- Error highlighting while you type
+- Type information and suggestions
+- Go to definition
+- Automatic code actions/refactoring
+- Type information on hover
+- Formatting support
+- Better project support

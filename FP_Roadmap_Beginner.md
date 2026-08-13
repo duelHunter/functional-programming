@@ -1,6 +1,6 @@
 # 🗺️ Functional Programming Roadmap for Beginners
 
-> A step-by-step guide based on the **EC8206 Functional Programming** curriculum (Haskell).  
+> A step-by-step guide for learning Functional Programming (Haskell).  
 > **Goal:** Move from "What is FP?" to writing small, correct, composable programs with types.
 
 ---
