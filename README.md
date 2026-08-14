@@ -1,13 +1,3 @@
-# Functional Programming Notes
-
-Notes, exercises, and lab code for learning Functional Programming (Haskell).
-
-## Contents
-
-- [Notes.md](Notes.md) — concept notes (REPL, thunks, first-class functions, HLS, etc.)
-- [FP_Roadmap_Beginner.md](FP_Roadmap_Beginner.md) — a phase-by-phase beginner roadmap for learning Haskell
-- [lab-1.hs](lab-1.hs) — lab 1 source code
-
 ## How to install Haskell on Windows?
 
 1. Download and run the [GHCup](https://www.haskell.org/ghcup/) installer (`ghcup-msys2-hls-x86_64-mingw64.exe` or the installer PowerShell script from the GHCup site).
@@ -23,7 +13,6 @@ Notes, exercises, and lab code for learning Functional Programming (Haskell).
    > ghci --version
    > cabal --version
    ```
-5. (Optional, for VS Code) Install the **Haskell** extension, which uses HLS to provide error highlighting, type info on hover, go-to-definition, and formatting.
 
 ## How to run lab-1.hs?
 
